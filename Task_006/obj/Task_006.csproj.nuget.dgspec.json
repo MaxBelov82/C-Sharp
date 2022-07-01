@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\MAX\\Desktop\\Geek Brains\\Homework_June\\Task_006\\Task_006.csproj": {}
+    "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-Sharp_Homework1\\Task_006\\Task_006.csproj": {}
   },
   "projects": {
-    "C:\\Users\\MAX\\Desktop\\Geek Brains\\Homework_June\\Task_006\\Task_006.csproj": {
+    "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-Sharp_Homework1\\Task_006\\Task_006.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\MAX\\Desktop\\Geek Brains\\Homework_June\\Task_006\\Task_006.csproj",
+        "projectUniqueName": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-Sharp_Homework1\\Task_006\\Task_006.csproj",
         "projectName": "Task_006",
-        "projectPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\Homework_June\\Task_006\\Task_006.csproj",
+        "projectPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-Sharp_Homework1\\Task_006\\Task_006.csproj",
         "packagesPath": "C:\\Users\\MAX\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\Homework_June\\Task_006\\obj\\",
+        "outputPath": "C:\\Users\\MAX\\Desktop\\Geek Brains\\C-Sharp_Homework1\\Task_006\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\MAX\\AppData\\Roaming\\NuGet\\NuGet.Config"

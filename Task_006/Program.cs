@@ -4,14 +4,13 @@
 // -3 -> нет
 // 7 -> нет
 
-int a = 5;
-
 Console.WriteLine("Является ли чётным число:");
-Console.ReadLine();
+int a = Convert.ToInt32(Console.ReadLine());
+
 if (a % 2 == 0) Console.WriteLine($"Число {a} чётное");
 else Console.WriteLine($"Число {a} нечётное");
 
-Console.ReadLine();
+Console.ReadKey();
 
 
 
